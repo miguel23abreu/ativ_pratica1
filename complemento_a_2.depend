@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662358726 source:c:\users\miguel abreu\desktop\unifap disciplinas\2° semestre\programação 2\complemento_a_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
